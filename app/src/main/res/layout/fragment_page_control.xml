@@ -13,7 +13,8 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:translationX="25px"
-        android:translationY="250px" />
+        android:translationY="250px"
+        tools:text="@string/url_text" />
 
     <ImageButton
         android:id="@+id/go"
